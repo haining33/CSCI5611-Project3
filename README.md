@@ -25,8 +25,11 @@ Timeline:(simulation with limit.mkv): 0:12- 0:18
 The difficulty that I have faced during this project is to handle multiple arms. So, I change the design of the solve() function. My solve() function have input of the start and the root vector. So if I want to add an extra arm. I just need to add the arm's angle, start and root vector and call solve() again.
 
 ## Part 2 Fabrik
-I make a single fabrik arm in the fabrik folder, I think implementing fabrik is easier than the algorithm in the course once you understand fabrik. 
-I think fabrik perform better because I think fabrik's simulation is more natural 
+I make a single fabrik arm in the fabrik folder, Hold the mouse to make the arm follow the mouse.
+I think implementing fabrik is easier than the algorithm in the course once you understand fabrik. 
+I think fabrik perform better because I think fabrik's simulation is more natural.
+I think the class algorithm is more flexible because if we want to implement collision, the original method is easier to do collision.
+Both methods support	constraints equally	well.
 <img src="images/fabrik.gif" alt="drawing" width="50%"/> <br />
 
 ## Extra tools
