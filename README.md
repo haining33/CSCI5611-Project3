@@ -17,7 +17,7 @@ The user can hold the mouse button to make the arms follow the mouse.
 
 ## Moving IK
 Using the w,a,s,d key can make the arms move in different directions in a stable speed.
-<img src="movement/withoutLimit.gif" alt="drawing" width="50%"/> <br />
+<img src="images/movement.gif" alt="drawing" width="50%"/> <br />
 
 ## Difficulties
 The difficulty that I have faced during this project is to handle multiple arms. So, I change the design of the solve() function. My solve() function have input of the start and the root vector. So if I want to add an extra arm. I just need to add the arm's angle, start and root vector and call solve() again.
