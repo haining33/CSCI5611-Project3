@@ -8,7 +8,7 @@ I limit the speed of the arm, so there will have a speed limit for the arms that
 
 ### with Limit
 <img src="images/withLimit.gif" alt="drawing" width="50%"/> <br />
-# Without limit
+### Without limit
 <img src="images/withoutLimit.gif" alt="drawing" width="50%"/> <br />
 
 
