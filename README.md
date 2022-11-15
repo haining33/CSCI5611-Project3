@@ -25,7 +25,7 @@ The difficulty that I have faced during this project is to handle multiple arms.
 ## Part 2 Fabrik
 I make a single fabrik arm in the fabrik folder, I think implementing fabrik is easier than the algorithm in the course once you understand fabrik. 
 I think fabrik perform better because I think fabrik's simulation is more natural 
-<img src="movement/fabrik.gif" alt="drawing" width="50%"/> <br />
+<img src="images/fabrik.gif" alt="drawing" width="50%"/> <br />
 
 ## Extra tools
 I did not use any extra tools
